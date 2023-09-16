@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Rest APIs**
 
-- 💬 Ask me about **SQL, Power BI, Tableau, Excel and Python**
+- 💬 Ask me about **SQL, Power BI, Looker, Excel and Python**
 
 - 📫 How to reach me **vitorhugompereira@gmail.com**
 
