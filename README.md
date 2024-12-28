@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **SQL, Power BI, Looker, Excel and Python**
 
-- 📫 How to reach me **vitorhugompereira@gmail.com**
+- 📫 How to reach me **victorhugompe@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/victorhugomartinsp/](https://www.linkedin.com/in/victorhugomartinsp/)
 
