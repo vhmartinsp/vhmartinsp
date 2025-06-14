@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo</h1>
 <h3 align="center">Passionate about the world of data science and analytics applied in business.</h3>
 
-- 🌱 I’m currently learning **Python and Rest APIs**
+- 🌱 I’m currently learning **Google Tag Manager**
 
 - 💬 Ask me about **SQL, Power BI, Looker, Excel and Python**
 
